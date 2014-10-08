@@ -22,7 +22,7 @@ o programa que utilizei era diferente do dos meus colegas mas ainda assim penso 
 rápidamente como este funcionava.
 
 Até agora, a parte mais interessante foi a dada na última aula pois as do animate e WOW
-já eram propriedade que tinhamos abordado, enquanto o GitHub foi completamente diferente.
+já eram propriedades que tinhamos abordado, enquanto o GitHub foi completamente diferente.
 
 
 8/10/2014
