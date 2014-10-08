@@ -11,7 +11,7 @@ joy
 ###*GitHub*
 
 ##Introdução:
-  No âmbito da UFCD 0155 de Base de Dados para a Internet (server side), ministrada pelo
+  No âmbito da UFCD 142 de Action Script ministrada pelo
 formador Francisco Ribeiro com a duração de 50 horas, foi-nos pedido a elaboração de uma
 reflexão crítica construtiva sobre os conteúdos abordados e os conhecimentos adquiridos.
 
